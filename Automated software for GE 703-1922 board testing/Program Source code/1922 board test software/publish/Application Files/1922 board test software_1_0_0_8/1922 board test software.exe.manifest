@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="1922 board test software.exe" version="1.0.0.8" publicKeyToken="297b865bbce35cb6" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="1922 board test software" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="1922 board test software.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="1922 board test software.exe" size="1249704">
+      <assemblyIdentity name="1922 board test software" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>e+aStra/KHKHLpioCWtDR1DpMr9TMy3zdynDENgUKps=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1922 board test software.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fzxBSr45tumrN8SNWWL0IeqRlxoh8+san/F4n6/GZJ4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CENTUM\ajals" issuerKeyHash="44e38ac9fae332fed4c0cc18a592f4faca8974ec" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8dsXpjka1DXb8lj0B5PPbC7GZ0JAp7CbqKtmT8M/SN0=</DigestValue></Reference></SignedInfo><SignatureValue>Yms3ph8PQ4aepGJgSxU8wFmubX2kgWPwzfMeXkgktUZrsCQbMI4sXyT4lJPyEeL1FwreHdF9fN9Xrs50Y/ltIWUaeeg2BuVMEl5b6j8mJWXWIpeSAQ1NjZBlwJxFRD22Az1FOjHn+rpTKQmHnYpnaeKev1EqIF4hg21YYBtHwi0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4d3oWkT90YynZomFvPrGYzE4lMXk6aainoLyZNjfgjrQ3ymmhQvlNoqfAxBrV3qFLnUWsmxlqtbcYxVBhnWX+4TkmsqpErFMhU3zIgJFkouKPfUHtq3MSR7NmefOjRDkEz+zN8kLGuWdd2lHrXlWYxQPrQZCmbkqdiWOHpPlP2k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dd483fc34f66aba89bb0a7404267c62e6ccf9307f458f2db35d41a39a617dbf1" Description="" Url=""><as:assemblyIdentity name="1922 board test software.exe" version="1.0.0.8" publicKeyToken="297b865bbce35cb6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CENTUM\ajals</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UM3/3krMc1cdNrUSgDbQ80sPi/ho3Bb1Ackwi5rNC/o=</DigestValue></Reference></SignedInfo><SignatureValue>Tdl87sRO4XzcTouRul7yl9Uk5y+aH1ybC3paIG7DLvAP6AYIRi4X8STQF/u44lcUb55PJ9eakIR/FsSqkPQaxfFMYMosn2xH5nksf2n9wN03UfzfxXv0f6RVoQDazP+1UvnHYuw1eukhMgZbdz0qQSfpqiv7zFKv5TQtBNFDb0A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4d3oWkT90YynZomFvPrGYzE4lMXk6aainoLyZNjfgjrQ3ymmhQvlNoqfAxBrV3qFLnUWsmxlqtbcYxVBhnWX+4TkmsqpErFMhU3zIgJFkouKPfUHtq3MSR7NmefOjRDkEz+zN8kLGuWdd2lHrXlWYxQPrQZCmbkqdiWOHpPlP2k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQP/64pnrnEYRJ4mpKopqhYjANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgAQwBFAE4AVABVAE0AXABhAGoAYQBsAHMwHhcNMTgwNTIxMTIxMjA0WhcNMTkwNTIxMTgxMjA0WjAjMSEwHwYDVQQDHhgAQwBFAE4AVABVAE0AXABhAGoAYQBsAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOHd6FpE/dGMp2aJhbz6xmMxOJTF5Ommop6C8mTY34I60N8ppoUL5TaKnwMQa1d6hS51FrJsZarW3GMVQYZ1l/uE5JrKqRKxTIVN8yICRZKLij31B7atzEkezZnnzo0Q5BM/szfJCxrlnXdpR615VmMUD60GQpm5KnYljh6T5T9pAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAriP31k8NfPLv87Us6rYwnIupJBLn+AF5MMJvDJkHokg+j2TUCBbZAVE6ufaFXfccNw59XsAoXYCah56tEthzQJaS28+6qTcSuh87UPEaJaKWJVaLiynpzz1rfwwcV0KWw5wieYOLmaJzjlq6fVj+tyzMvWVSSJ/u7GB7cewvXoA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

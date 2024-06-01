@@ -1,0 +1,35 @@
+c:\users\ajals\documents\visual studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\bin\Debug\LITHIUM_BATTERY.exe.config
+c:\users\ajals\documents\visual studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.csprojResolveAssemblyReference.cache
+c:\users\ajals\documents\visual studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.csproj.ResolveComReference.cache
+c:\users\ajals\documents\visual studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.Properties.Resources.resources
+c:\users\ajals\documents\visual studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.csproj.GenerateResource.Cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\bin\Debug\LITHIUM_BATTERY.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\bin\Debug\LITHIUM_BATTERY.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.P1_TEST_PART1.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\bin\Debug\LITHIUM_BATTERY.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\bin\Debug\LITHIUM_BATTERY.application
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.application
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.LOGIN_LOGIC.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.P1_TEST_PART1B.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.SERIAL_LOGIC.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.FAIL.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.P1_TEST_PART2.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.P1_TEST_PART2B.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.P2_TEST_PART1.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.P2_TEST.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.P6_TEST_PART1.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.P6_TEST.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.PASS.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\LITHIUM_BATTERY\LITHIUM_BATTERY\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\THROUGH PYTHON\Automated software for GE Lithium Battery board\Program Source code\LITHIUM_BATTERY\bin\Debug\LITHIUM_BATTERY.exe.config
+F:\THROUGH PYTHON\Automated software for GE Lithium Battery board\Program Source code\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.csproj.ResolveComReference.cache
+F:\THROUGH PYTHON\Automated software for GE Lithium Battery board\Program Source code\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.exe
+F:\THROUGH PYTHON\Automated software for GE Lithium Battery board\Program Source code\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.pdb
+D:\DEV & FILES\THROUGH PYTHON\Automated software for GE Lithium Battery board\Program Source code\LITHIUM_BATTERY\bin\Debug\LITHIUM_BATTERY.exe.config
+D:\DEV & FILES\THROUGH PYTHON\Automated software for GE Lithium Battery board\Program Source code\LITHIUM_BATTERY\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\DEV & FILES\THROUGH PYTHON\Automated software for GE Lithium Battery board\Program Source code\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.csproj.ResolveComReference.cache
+D:\DEV & FILES\THROUGH PYTHON\Automated software for GE Lithium Battery board\Program Source code\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.exe
+D:\DEV & FILES\THROUGH PYTHON\Automated software for GE Lithium Battery board\Program Source code\LITHIUM_BATTERY\obj\Debug\LITHIUM_BATTERY.pdb

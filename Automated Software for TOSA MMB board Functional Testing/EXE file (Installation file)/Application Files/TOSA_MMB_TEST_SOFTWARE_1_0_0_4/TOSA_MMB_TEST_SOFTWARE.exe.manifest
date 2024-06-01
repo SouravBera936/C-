@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="TOSA_MMB_TEST_SOFTWARE.exe" version="1.0.0.4" publicKeyToken="e1206312b117ccf8" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Double-J-Design-Electronics-PCB.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TOSA_MMB_TEST_SOFTWARE" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TOSA_MMB_TEST_SOFTWARE.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TOSA_MMB_TEST_SOFTWARE.exe" size="4105128">
+      <assemblyIdentity name="TOSA_MMB_TEST_SOFTWARE" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>c7JmtR83HZkHRq3qbJdWwBVjjmxSUE0FFxxB8FcRnMQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Double-J-Design-Electronics-PCB.ico" size="200847">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6lVlQC8sj4jh4FNhXnM95nVtbW5XKt9XRL7ZDFp8pAw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TOSA_MMB_TEST_SOFTWARE.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CENTUM\ajals" issuerKeyHash="4db6a29fa1e10735d5cb62d34c86b2fdc643f722" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/0LlcIALjAdKGJtYB5xKBmh0nghYYFgctuXg0yhu/8w=</DigestValue></Reference></SignedInfo><SignatureValue>OZwlKjri4ULfQam/LIlkme+xGrClcSv+ZLqv+5T29GSqtbAFWwmP2Sd7It4cAhbMaUg+EFP0QN9BpuwQArdpbDnzIBAlsv0QR35pS7Cu9CEmw/KohEK/2N5DCp6r4GsiB+vxBcZAHo1iBgs40MFlQYAyWvYmOiuzbCfnfm57b0M=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>w/D80bdVjgXCg3TUUfOdlcuHWnoJ5PULpRP3B7Hx1zYUNHDNtUdHFYPrdJLex/QaQqDLLf19qksW2+iiOireFokDKCxDd2OqWV3t1ULK0W0AAxJFJwO7/rsrt0JRa7fbwNx/8YtEVQkrzV4omx18wWVptT8Zv+PdWud/HQUp51U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ccff6e28d3e0e5b61c586058089e7468064a9c07589b184a078c0b8070e542ff" Description="" Url=""><as:assemblyIdentity name="TOSA_MMB_TEST_SOFTWARE.exe" version="1.0.0.4" publicKeyToken="e1206312b117ccf8" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CENTUM\ajals</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2GH4pSL6tTBfT1mDF9nd+ck90ETpcZS8E5ECS6dtvrI=</DigestValue></Reference></SignedInfo><SignatureValue>cMT82fWVTib65exhSNsoVciePRqzeHSDupWX9P4ZoFejY/btl9wEWd3c6b8UcLhb2zdHmEoSlZuQi85Gh++2FrpwukvVybr+48cu2IRIW7+nrTr2RPzTFcLv9Jxq3rn0Tgni13o4t3O118UgoYIc9GWIqEuBWh11C9cSbUim/qQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>w/D80bdVjgXCg3TUUfOdlcuHWnoJ5PULpRP3B7Hx1zYUNHDNtUdHFYPrdJLex/QaQqDLLf19qksW2+iiOireFokDKCxDd2OqWV3t1ULK0W0AAxJFJwO7/rsrt0JRa7fbwNx/8YtEVQkrzV4omx18wWVptT8Zv+PdWud/HQUp51U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQRE52BgGcVoJPEXbeIMCVRTANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgAQwBFAE4AVABVAE0AXABhAGoAYQBsAHMwHhcNMjAwNDIzMDcxNzQ3WhcNMjEwNDIzMTMxNzQ3WjAjMSEwHwYDVQQDHhgAQwBFAE4AVABVAE0AXABhAGoAYQBsAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMPw/NG3VY4FwoN01FHznZXLh1p6CeT1C6UT9wex8dc2FDRwzbVHRxWD63SS3sf0GkKgyy39fapLFtvoojoq3haJAygsQ3djqlld7dVCytFtAAMSRScDu/67K7dCUWu328Dcf/GLRFUJK81eKJsdfMFlabU/Gb/j3Vrnfx0FKedVAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAAknOxZ4Rhi90Gpoi6QhBJxIq9IVte1A90aqRvDv4W5s+9vpEtK+QQmnLvyTPN+EGbBDkV7BzU1BtqhQgDdkVyonxMdIuirC2qGeHGxnOHD86vABRzsmmpm088LBGaZuOfb04a6qrEWyy9sHq+0EiMV8pG9mePD92CXNDQsuCxbY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

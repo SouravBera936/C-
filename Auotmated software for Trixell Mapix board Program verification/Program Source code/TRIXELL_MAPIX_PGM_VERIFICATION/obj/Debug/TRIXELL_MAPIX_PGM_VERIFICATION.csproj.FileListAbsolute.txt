@@ -1,0 +1,26 @@
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\bin\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.exe.config
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.csprojResolveAssemblyReference.cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.BOARD_SELECCTION.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.Properties.Resources.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.csproj.GenerateResource.Cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.RUN_TEST2_7944.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.RUN_TEST2_8235.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.RUN_TEST_7944.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.RUN_TEST_8235.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\bin\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\bin\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.csproj.ResolveComReference.cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\bin\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\bin\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.application
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MAPIX_PGM_VERIFICATION\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.application
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Auotmated software for Trixell Mapix board Program verification\Program Source code\TRIXELL_MAPIX_PGM_VERIFICATION\bin\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.exe.config
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Auotmated software for Trixell Mapix board Program verification\Program Source code\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.csproj.ResolveComReference.cache
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Auotmated software for Trixell Mapix board Program verification\Program Source code\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.exe
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Auotmated software for Trixell Mapix board Program verification\Program Source code\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.pdb
+F:\THROUGH PYTHON\Auotmated software for Trixell Mapix board Program verification\Program Source code\TRIXELL_MAPIX_PGM_VERIFICATION\bin\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.exe.config
+F:\THROUGH PYTHON\Auotmated software for Trixell Mapix board Program verification\Program Source code\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.csproj.ResolveComReference.cache
+F:\THROUGH PYTHON\Auotmated software for Trixell Mapix board Program verification\Program Source code\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.exe
+F:\THROUGH PYTHON\Auotmated software for Trixell Mapix board Program verification\Program Source code\TRIXELL_MAPIX_PGM_VERIFICATION\obj\Debug\TRIXELL_MAPIX_PGM_VERIFICATION.pdb

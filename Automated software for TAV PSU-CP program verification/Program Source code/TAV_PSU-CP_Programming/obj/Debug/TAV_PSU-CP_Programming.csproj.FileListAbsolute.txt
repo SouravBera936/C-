@@ -1,0 +1,15 @@
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\bin\Debug\TAV_PSU-CP_Programming.exe.config
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\bin\Debug\TAV_PSU-CP_Programming.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\bin\Debug\TAV_PSU-CP_Programming.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU-CP_Programming.csprojResolveAssemblyReference.cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU-CP_Programming.csproj.ResolveComReference.cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU_CP_Programming.Form1.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU_CP_Programming.Programming.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU_CP_Programming.Properties.Resources.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU-CP_Programming.csproj.GenerateResource.Cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU-CP_Programming.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU-CP_Programming.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\bin\Debug\TAV_PSU-CP_Programming.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\bin\Debug\TAV_PSU-CP_Programming.application
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU-CP_Programming.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_PSU-CP_Programming\TAV_PSU-CP_Programming\obj\Debug\TAV_PSU-CP_Programming.application

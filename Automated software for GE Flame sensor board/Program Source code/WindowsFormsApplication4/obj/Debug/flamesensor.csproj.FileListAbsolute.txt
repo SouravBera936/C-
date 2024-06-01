@@ -1,0 +1,27 @@
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor.exe.config
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.csproj.ResolveComReference.cache
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor.exe.manifest
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor.application
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor.exe
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor.pdb
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.csprojResolveAssemblyReference.cache
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.BOARD_TEST.resources
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MAIN_FORM.resources
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PART_NUMBER.resources
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SETUP_CALIBRATION.resources
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.csproj.GenerateResource.Cache
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.exe.manifest
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.application
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.exe
+D:\my flame sensor\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.pdb
+D:\my flame sensor LATEST ONE 23.09.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor.exe.config
+D:\my flame sensor LATEST ONE 23.09.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.csproj.ResolveComReference.cache
+D:\my flame sensor LATEST ONE 23.09.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.exe
+D:\my flame sensor LATEST ONE 23.09.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.pdb
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor.exe.config
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.csproj.ResolveComReference.cache
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.exe
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor.pdb

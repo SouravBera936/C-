@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="TRIXELL_MIMO_AUTOMTION.exe" version="1.0.0.0" publicKeyToken="46dd1e4615fcecf7" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TRIXELL_MIMO_AUTOMTION" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TRIXELL_MIMO_AUTOMTION.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TRIXELL_MIMO_AUTOMTION.exe" size="71080">
+      <assemblyIdentity name="TRIXELL_MIMO_AUTOMTION" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>pliinqBpztUa6xdP8LQwnVcxF36RJSK6pGv6+zyDegU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="TRIXELL_MIMO_AUTOMTION.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CENTUM\ajals" issuerKeyHash="32d0b7ce73c327c12b160285d7460c305da16c00" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>4y8uw9HaJv2qpmetQPhTwYzc7mXZ5K1C2vLE4HbqMTE=</DigestValue></Reference></SignedInfo><SignatureValue>vXo4Mpx+r3lj2sf88uISQ76fXno6MrBVOJWOECtKMMiJxPlXkW/tkg6N99Nxhbsi7FLc8HUXS+IyCbGem4O4fLtvKjf89pAvA4xW6N0wLuxDmIA+jD4SQJmX9yB7asO/zTtpJL88O12vOTShyxWWvRHZzEEw8G6/4Q1L8MuyICc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yveK3+et4Ok0e9xQxqYmcp3FBCbrdr44YcYGxVaLDM3IjmDwT2hNEqJTMCABU8CFRqZv3a0vdsyBVj+envhmetGN5RDdrV8z6zN2C5CKBfuVssL/2o7OaVYe4xeHT1iXZCaTYGjcfRpMjIu1ObP5Ilh+Dwbmvkk/0wuJpMouwNM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3131ea76e0c4f2da42ade4d965eedc8cc153f840ad67a6aafd26dad1c32e2fe3" Description="" Url=""><as:assemblyIdentity name="TRIXELL_MIMO_AUTOMTION.exe" version="1.0.0.0" publicKeyToken="46dd1e4615fcecf7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CENTUM\ajals</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1hP9YTtIh2P/V0dbKJgAjTaqsuCvqWyOJ7kaOHtsScA=</DigestValue></Reference></SignedInfo><SignatureValue>wGGLPkUzp1rA9EAmNW+x4iDw78Wvg4SEYUJLvKMnzJbUvh1+rv8PljFI2xcG7N6aoOU+JdvgVH2W0Jfsi9L/5mKNo3LtnTlaZmg201QziB7x8FZsvEHe1BLE8TnPjpOLO+F3fA7IAFmO+SFjvKCgue1SnIhzglLsfcc/0Kh/nyE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yveK3+et4Ok0e9xQxqYmcp3FBCbrdr44YcYGxVaLDM3IjmDwT2hNEqJTMCABU8CFRqZv3a0vdsyBVj+envhmetGN5RDdrV8z6zN2C5CKBfuVssL/2o7OaVYe4xeHT1iXZCaTYGjcfRpMjIu1ObP5Ilh+Dwbmvkk/0wuJpMouwNM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQP7Ng8ARDBrJL6zv++m755DANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgAQwBFAE4AVABVAE0AXABhAGoAYQBsAHMwHhcNMjAwMTExMTEzNzQ2WhcNMjEwMTEwMTczNzQ2WjAjMSEwHwYDVQQDHhgAQwBFAE4AVABVAE0AXABhAGoAYQBsAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMr3it/nreDpNHvcUMamJnKdxQQm63a+OGHGBsVWiwzNyI5g8E9oTRKiUzAgAVPAhUamb92tL3bMgVY/np74ZnrRjeUQ3a1fM+szdguQigX7lbLC/9qOzmlWHuMXh09Yl2Qmk2Bo3H0aTIyLtTmz+SJYfg8G5r5JP9MLiaTKLsDTAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAwVeeJPyZmhQyhhxlwX2ybjGVEwW1B6tTA9rCp+nUlyC9Auj1zxuMUwZJAk6sTfL1o9lgjWteiSmUO7iIE3vnQpvc6QV67XywgFJRQBk/BiwMUjHiQUwSsZN2xvTv2Pip7wgmIEcBYvNx93ShBmwN4ArzaIklqH9DwHfng+dTnuk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

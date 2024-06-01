@@ -1,0 +1,10 @@
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\DRESSER.csproj.AssemblyReference.cache
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\DRESSER.csproj.ResolveComReference.cache
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Configuration.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.PASS_LOGIC.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.PROGRAMMING.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.SERIAL.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.LOGIN_LOGIC.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Properties.Resources.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\DRESSER.csproj.GenerateResource.cache
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Release\DRESSER.csproj.CoreCompileInputs.cache

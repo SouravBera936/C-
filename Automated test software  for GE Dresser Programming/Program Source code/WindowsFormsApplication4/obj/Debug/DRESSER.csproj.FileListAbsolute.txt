@@ -1,0 +1,72 @@
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.exe.config
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.exe.manifest
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.application
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.exe
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.pdb
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.csprojResolveAssemblyReference.cache
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.ResolveComReference.cache
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PASS_LOGIC.resources
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PROGRAMMING.resources
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SERIAL.resources
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.GenerateResource.Cache
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.exe.manifest
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.application
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.exe
+D:\software back up\trial\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.pdb
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.exe.config
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.ResolveComReference.cache
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.exe
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.pdb
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.exe.manifest
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.application
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.exe
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DRESSER.pdb
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.csprojResolveAssemblyReference.cache
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PASS_LOGIC.resources
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PROGRAMMING.resources
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SERIAL.resources
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.GenerateResource.Cache
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.exe.manifest
+D:\software back up\GE DRESSER\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\DRESSER.application
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\bin\Debug\DRESSER.exe.config
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.ResolveComReference.cache
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.exe
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.pdb
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.csprojResolveAssemblyReference.cache
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PASS_LOGIC.resources
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PROGRAMMING.resources
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SERIAL.resources
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+I:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.GenerateResource.Cache
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\bin\Debug\DRESSER.exe.config
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.ResolveComReference.cache
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.exe
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.pdb
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.csprojResolveAssemblyReference.cache
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PASS_LOGIC.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PROGRAMMING.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SERIAL.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\AJAL Automated software Details\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.GenerateResource.Cache
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\bin\Debug\DRESSER.exe.config
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.ResolveComReference.cache
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.exe
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.pdb
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.csprojResolveAssemblyReference.cache
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PASS_LOGIC.resources
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PROGRAMMING.resources
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SERIAL.resources
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\THROUGH PYTHON\Automated test software  for GE Dresser Programming\Program Source code\WindowsFormsApplication4\obj\Debug\DRESSER.csproj.GenerateResource.Cache

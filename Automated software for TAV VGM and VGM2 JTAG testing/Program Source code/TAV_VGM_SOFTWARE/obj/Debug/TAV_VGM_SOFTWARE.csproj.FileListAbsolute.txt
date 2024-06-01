@@ -1,0 +1,14 @@
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\bin\Debug\TAV_VGM_SOFTWARE.exe.config
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\obj\Debug\TAV_VGM_SOFTWARE.csproj.ResolveComReference.cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\bin\Debug\TAV_VGM_SOFTWARE.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\bin\Debug\TAV_VGM_SOFTWARE.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\obj\Debug\TAV_VGM_SOFTWARE.csprojResolveAssemblyReference.cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\obj\Debug\TAV_VGM_SOFTWARE.Board_selection.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\obj\Debug\TAV_VGM_SOFTWARE.Properties.Resources.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\obj\Debug\TAV_VGM_SOFTWARE.csproj.GenerateResource.Cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\obj\Debug\TAV_VGM_SOFTWARE.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\obj\Debug\TAV_VGM_SOFTWARE.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\bin\Debug\TAV_VGM_SOFTWARE.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\bin\Debug\TAV_VGM_SOFTWARE.application
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\obj\Debug\TAV_VGM_SOFTWARE.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TAV_VGM_SOFTWARE\TAV_VGM_SOFTWARE\obj\Debug\TAV_VGM_SOFTWARE.application

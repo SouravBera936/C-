@@ -1,0 +1,74 @@
+c:\users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\bin\Debug\1922 board test software.exe.config
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\1922 board test software.csprojResolveAssemblyReference.cache
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.advance_network_settings.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.boot_loader.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.change_password.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.ethernet_configration.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.factory_default_settings.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.fail.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.firmware1.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.firmware2.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.functional_test.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.functional_test_settings.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.LOGIN_LOGIC.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.memory_test1.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.memory_test2.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.memory_test3.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.opertor_window_conifrmation.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.pass.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.POST_version.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.Properties.Resources.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.serialport_configuration_confirmation.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.Serial_port_configuration.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.settings1.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.settings2.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.system_customization.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\1922 board test software.csproj.GenerateResource.Cache
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.serial_logic.resources
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\bin\Debug\1922 board test software.exe
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\bin\Debug\1922 board test software.pdb
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\1922 board test software.exe
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\1922 board test software.pdb
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\1922 board test software.csproj.ResolveComReference.cache
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\bin\Debug\1922 board test software.exe.manifest
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\bin\Debug\1922 board test software.application
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\1922 board test software.exe.manifest
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\1922 board test software.application
+C:\Users\ajals\documents\visual studio 2015\Projects\1922 board test software\1922 board test software\obj\Debug\_1922_board_test_software.com_port_disabling.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\bin\Debug\1922 board test software.exe.config
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\1922 board test software.csproj.ResolveComReference.cache
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\1922 board test software.exe
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\1922 board test software.pdb
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\bin\Debug\1922 board test software.exe.manifest
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\bin\Debug\1922 board test software.application
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\bin\Debug\1922 board test software.exe
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\bin\Debug\1922 board test software.pdb
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\1922 board test software.csprojResolveAssemblyReference.cache
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.advance_network_settings.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.boot_loader.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.change_password.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.com_port_disabling.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.ethernet_configration.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.factory_default_settings.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.fail.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.firmware1.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.firmware2.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.functional_test.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.functional_test_settings.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.LOGIN_LOGIC.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.memory_test1.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.memory_test2.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.memory_test3.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.opertor_window_conifrmation.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.pass.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.POST_version.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.Properties.Resources.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.serialport_configuration_confirmation.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.serial_logic.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.Serial_port_configuration.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.settings1.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.settings2.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\_1922_board_test_software.system_customization.resources
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\1922 board test software.csproj.GenerateResource.Cache
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\1922 board test software.exe.manifest
+F:\AJAL Automated software Details\Automated software for GE 703-1922 board testing\Program Source code\1922 board test software\obj\Debug\1922 board test software.application

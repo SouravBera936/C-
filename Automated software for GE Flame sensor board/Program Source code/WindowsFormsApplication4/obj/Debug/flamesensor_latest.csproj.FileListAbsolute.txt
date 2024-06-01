@@ -1,0 +1,76 @@
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csprojResolveAssemblyReference.cache
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.ResolveComReference.cache
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.BOARD_TEST.resources
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MAIN_FORM.resources
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PART_NUMBER.resources
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SETUP_CALIBRATION.resources
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.GenerateResource.Cache
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor_latest.exe.config
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor_latest.exe.manifest
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor_latest.application
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor_latest.exe
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\flamesensor_latest.pdb
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.exe.manifest
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.application
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.exe
+D:\flame sensor 24.10.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.pdb
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.ResolveComReference.cache
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FS-9009-29.exe.config
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FS-9009-29.exe.manifest
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FS-9009-29.application
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FS-9009-29.exe
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FS-9009-29.pdb
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csprojResolveAssemblyReference.cache
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.BOARD_TEST.resources
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MAIN_FORM.resources
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PART_NUMBER.resources
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SETUP_CALIBRATION.resources
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.GenerateResource.Cache
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\FS-9009-29.exe.manifest
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\FS-9009-29.application
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\FS-9009-29.exe
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\FS-9009-29.pdb
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FAIL.resources
+D:\FLAME SENSOR  FS-909-29 23.11.17\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PASS.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csprojAssemblyReference.cache
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.ResolveComReference.cache
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.BOARD_TEST.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FAIL.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MAIN_FORM.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PART_NUMBER.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PASS.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SETUP_CALIBRATION.resources
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.GenerateResource.cache
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.CoreCompileInputs.cache
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\FS-9009-29.exe
+\\prod-fs\EMS-TESTING\2020\03 Common\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\FS-9009-29.pdb
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\bin\Debug\FS-9009-29.exe.config
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.ResolveComReference.cache
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\FS-9009-29.exe
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\FS-9009-29.pdb
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csprojResolveAssemblyReference.cache
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.BOARD_TEST.resources
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Configuration.resources
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FAIL.resources
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.LOGIN_LOGIC.resources
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MAIN_FORM.resources
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PART_NUMBER.resources
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.PASS.resources
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.SETUP_CALIBRATION.resources
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.GenerateResource.Cache
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csprojAssemblyReference.cache
+F:\AJAL Automated software Details\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.CoreCompileInputs.cache
+D:\DEV & FILES\THROUGH PYTHON\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\bin\Debug\FS-9009-29.exe.config
+D:\DEV & FILES\THROUGH PYTHON\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\flamesensor_latest.csproj.ResolveComReference.cache
+D:\DEV & FILES\THROUGH PYTHON\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\FS-9009-29.exe
+D:\DEV & FILES\THROUGH PYTHON\Automated software for GE Flame sensor board\Program Source code\WindowsFormsApplication4\obj\Debug\FS-9009-29.pdb

@@ -1,0 +1,22 @@
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\bin\Debug\TRIXELL_MIMO_AUTOMTION.exe.config
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.csprojResolveAssemblyReference.cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.MIMO.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.Properties.Resources.resources
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.csproj.GenerateResource.Cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\bin\Debug\TRIXELL_MIMO_AUTOMTION.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\bin\Debug\TRIXELL_MIMO_AUTOMTION.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.exe
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.pdb
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.csproj.ResolveComReference.cache
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\bin\Debug\TRIXELL_MIMO_AUTOMTION.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\bin\Debug\TRIXELL_MIMO_AUTOMTION.application
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.exe.manifest
+C:\Users\ajals\Documents\Visual Studio 2015\Projects\TRIXELL_MIMO_AUTOMTION\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.application
+F:\AJAL Automated software Details\Auotmated software for Trixell MIMO board Cold test\Program Source code\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.csprojAssemblyReference.cache
+F:\AJAL Automated software Details\Auotmated software for Trixell MIMO board Cold test\Program Source code\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.csproj.ResolveComReference.cache
+F:\AJAL Automated software Details\Auotmated software for Trixell MIMO board Cold test\Program Source code\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.MIMO.resources
+F:\AJAL Automated software Details\Auotmated software for Trixell MIMO board Cold test\Program Source code\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.Properties.Resources.resources
+F:\AJAL Automated software Details\Auotmated software for Trixell MIMO board Cold test\Program Source code\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.csproj.GenerateResource.cache
+F:\AJAL Automated software Details\Auotmated software for Trixell MIMO board Cold test\Program Source code\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.csproj.CoreCompileInputs.cache
+F:\AJAL Automated software Details\Auotmated software for Trixell MIMO board Cold test\Program Source code\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.exe
+F:\AJAL Automated software Details\Auotmated software for Trixell MIMO board Cold test\Program Source code\TRIXELL_MIMO_AUTOMTION\obj\Debug\TRIXELL_MIMO_AUTOMTION.pdb
